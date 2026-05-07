@@ -1,6 +1,6 @@
 package Tarea_pendiente;
 
-// Las llamadas a atributos o metodos privados estan comentadas
+// Las llamadas a atributos o metodos privados estan comentadas en el codigo.
 
 public class Main {
     public static void main(String[] args) {
