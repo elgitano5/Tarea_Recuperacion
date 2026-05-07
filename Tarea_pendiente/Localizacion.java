@@ -1,3 +1,4 @@
+package Tarea_pendiente;
 abstract class Localizacion {
     protected String pais;
     protected String provincia;

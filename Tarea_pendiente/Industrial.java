@@ -1,3 +1,4 @@
+package Tarea_pendiente;
 class Industrial extends Localizacion {
     private int numeroFabrica;
     private String nombre;

@@ -1,3 +1,4 @@
+package Tarea_pendiente;
 class Rural extends Localizacion {
     private double latitud;
     private double longitud;
