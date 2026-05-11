@@ -56,6 +56,6 @@ public class Main {
         // =====================
         // MENSAJE FINAL
         // =====================
-        System.out.println("\nNo se puede acceder a nada ya que esta en un package diferente, para acceder a los public es necesario importar la clase en esta misma.");
+        System.out.println("\nNo se puede acceder a nada ya que esta en un package diferente, para acceder a los publicos es necesario importar la clase en esta misma.");
     }
 }
